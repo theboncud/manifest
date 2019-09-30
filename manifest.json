@@ -1,0 +1,38 @@
+{
+  "name": "Deriset.com",
+  "short_name": "Deriset",
+  "start_url": "https://www.deriset.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Sebuah Blog Untuk Para Nolep Yang Sedang Sedih Dikamar",
+  "icons": [{
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://i.ibb.co/K2B3yfn/deriset.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
